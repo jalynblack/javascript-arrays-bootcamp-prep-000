@@ -1,0 +1,7 @@
+var myArray = [0, 1, 2]
+
+myArray[5] = 5
+myArray[4] = 4
+myArray[3] = 3
+
+console.log(myArray)
